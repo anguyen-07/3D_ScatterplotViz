@@ -7,7 +7,7 @@ This visualization is 3-Dimensional Scatterplot of AirBnb listings from 6 major 
  memory issues so that the application would not crash with that amount of data, but still be
  representative of the stored information.
  
- This data set on AirBnb listings in the major U.S. cities was taken from the ~Kaggle~ competition
+ This data set on AirBnb listings in the major U.S. cities was taken from the Kaggle competition
  and can be found at the link: https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml.
  Since I was interested in visualizing the price distribution (y), accommodation number (x), and rating of
  the listings (z), I manipulated the original data set to keep only the values I was interested in
