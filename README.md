@@ -23,3 +23,6 @@ This visualization is 3-Dimensional Scatterplot of AirBnb listings from 6 major 
  Using the left and right arrows on the keyboard, the visualization can change which listings are
  displayed based on city. All listings will be shown at start up (keyCount index = 0) , but can be
  cycled to show only listings from LA, SF, NYC, DC, CHI, or BOS with each press of the right key arrow.
+ 
+ A mouse drag interactivity is employed to change the angles along the x and y axes where the mouse button 
+ must be held down and moved in a direction to change either the rotation angle on either the x or y axis.
